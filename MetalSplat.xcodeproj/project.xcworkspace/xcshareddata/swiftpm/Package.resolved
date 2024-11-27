@@ -1,0 +1,24 @@
+{
+  "originHash" : "3df41deb6908960ccd9b52ef6e106603527a4761a191fe392af34680e134b5bd",
+  "pins" : [
+    {
+      "identity" : "forge",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Hi-Rez/Forge",
+      "state" : {
+        "revision" : "700e72f59a807577582194c93e0dcb5aa7d53e5d",
+        "version" : "1.4.2"
+      }
+    },
+    {
+      "identity" : "satin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Hi-Rez/Satin.git",
+      "state" : {
+        "revision" : "06593c2762ae783cf19872eac1e4fcf12c8c21fb",
+        "version" : "13.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
